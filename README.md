@@ -1,2 +1,5 @@
 # JS-Tetris
-It's a Back to Basics Fun game developed by me with the help of Vanilla JS
+
+Visit https://coolpulkit.github.io/Tetris for a Better and Live Demo of the Repo.
+
+[![HitCount](http://hits.dwyl.com/coolpulkit/JS-Tetris.svg)](http://hits.dwyl.com/coolpulkit/JS-Tetris)
